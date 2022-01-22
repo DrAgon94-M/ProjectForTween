@@ -1,0 +1,21 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": false,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Texture/Item/icon_gun.png",
+  "itemintroduction": "46edf25a-b474-4908-aea3-c0358af9b762",
+  "itemname": "item_5232da59-0194-4543-920a-6d072b593e76",
+  "mesh": "asset/Mesh/Gunman1/gun_169.mesh",
+  "needSave": true,
+  "skill": [
+    "myplugin/2ffff779-86f1-4472-96f2-7772b1307476"
+  ],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

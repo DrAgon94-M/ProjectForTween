@@ -1,0 +1,15 @@
+{
+  "data": {
+    "continueHeal": 2,
+    "deadRemove": true,
+    "name": {
+      "value": "buff_56674979-b222-45a9-a615-d3d812c679ce"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6e2eee2a7a9c2a6318f9d1c27e1bde8d"
+    },
+    "VERSION": "0.18"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "data": {
+    "canAbandon": true,
+    "candrop": true,
+    "icon": {
+      "asset": "asset/Texture/Item/icon_gun.png",
+      "selector": "editor/空/asset/Texture/Item/icon_gun.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "skill": [
+          "myplugin/2ffff779-86f1-4472-96f2-7772b1307476"
+        ]
+      },
+      "type": "InHand"
+    },
+    "itemintroduction": {
+      "value": "46edf25a-b474-4908-aea3-c0358af9b762"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Gunman1/gun_169.mesh",
+      "selector": "editor/terrain/asset/Mesh/Gunman1/gun_169.mesh"
+    },
+    "name": {
+      "value": "item_5232da59-0194-4543-920a-6d072b593e76"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f9229da4098abba8236b3de7c5721dc1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

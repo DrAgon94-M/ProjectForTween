@@ -1,0 +1,17 @@
+{
+  "data": {
+    "deadRemove": true,
+    "fixTime": "append",
+    "maxHp": 30,
+    "name": {
+      "value": "buff_9d9c5cf1-4e88-469f-8072-77a256e9ff8d"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "37f5c98b8608671ca5954b9be284ff59"
+    },
+    "VERSION": "0.18"
+  }
+}

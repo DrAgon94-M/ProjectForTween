@@ -1,0 +1,55 @@
+{
+  "data": {
+    "castAction": "attack",
+    "castEffect": {
+      "yaw": 1
+    },
+    "consumeItem": [
+      {
+        "itemType": {
+          "item": "myplugin/35aae0c5-6e22-49d2-89d7-6b1abc4ae5d5"
+        }
+      }
+    ],
+    "frontSight": "myplugin/frontsight1",
+    "name": {
+      "value": "skill_b31ce09d-c1c3-43e0-9a09-527e864b6160"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/32031950-0688-4b17-a6f0-f9cd91bdfb7d",
+            "startPos": {
+              "y": 0
+            }
+          }
+        ],
+        "target": {
+          "type": "Camera"
+        }
+      },
+      "type": "Missile"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Texture/Skill/common/icon_火球_nor.png",
+        "selector": "editor/模版游戏配置/asset/Texture/Skill/common/icon_火球_nor.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      },
+      "touchTime": {
+        "value": 40
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6c20e0e2d39cbb9bfc730931bd23d067",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

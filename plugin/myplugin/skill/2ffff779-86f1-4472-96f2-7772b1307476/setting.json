@@ -1,0 +1,55 @@
+{
+  "area": [
+    [
+      0,
+      -58
+    ],
+    [
+      0,
+      -238
+    ],
+    [
+      0,
+      88
+    ],
+    [
+      0,
+      88
+    ]
+  ],
+  "area_number": 9,
+  "backSwingTime": 0,
+  "castAction": "aim3",
+  "castActionTime": -1,
+  "cdTime": 0,
+  "consumeVp": 0,
+  "customizeSkill": true,
+  "draggingEnabled": false,
+  "enable_pre": false,
+  "enable_rear": false,
+  "enableMoveBrkBackS": false,
+  "enableMoveBrkPreS": false,
+  "frontSight": "myplugin/frontsight1",
+  "hitEffect": "",
+  "hitEntitySkill": "myplugin/7fe9f1e7-9e9d-4834-ac40-4f9685e0b788",
+  "horizontalAlignment": 2,
+  "icon": "@asset/Texture/Skill/common/icon_开枪_nor.png",
+  "ignoreCastSkillBackS": false,
+  "ignoreCastSkillPreS": true,
+  "ignoreJumpBackS": false,
+  "ignoreJumpPreS": false,
+  "ignoreMoveBackS": false,
+  "ignoreMovePreS": false,
+  "isClick": false,
+  "isTouch": false,
+  "preSwingTime": 0,
+  "rayLenth": 30,
+  "recoil": 0,
+  "sensitivityFactor": 1,
+  "startAction": "",
+  "startActionTime": 0,
+  "sustainAction": "",
+  "trajectoryEffect": "@asset/Effect/Ray/ray of frost.effect",
+  "type": "Ray",
+  "verticalAlignment": 2
+}

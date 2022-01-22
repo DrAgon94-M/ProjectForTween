@@ -1,0 +1,36 @@
+{
+  "data": {
+    "canAbandon": true,
+    "candrop": true,
+    "icon": {
+      "asset": "asset/Texture/Item/icon_helmet.png",
+      "selector": "editor/空/asset/Texture/Item/icon_helmet.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemEquip",
+        "equip_buff": "myplugin/9d9c5cf1-4e88-469f-8072-77a256e9ff8d",
+        "itemGuise": "armor_head_blue",
+        "itemPosition": "armor_head",
+        "tray": "1"
+      }
+    },
+    "itemintroduction": {
+      "value": "9f43efba-ed55-4551-8001-a0b2c9e9b661"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Actor_mesh/bed_armor_helmet_blue.mesh",
+      "selector": "editor/模版游戏配置/asset/Mesh/Actor_mesh/bed_armor_helmet_blue.mesh"
+    },
+    "name": {
+      "value": "item_7b82b02d-c0fd-44d5-9720-5fa9e520afc0"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7dd915a940e0d8cc4f860ae08f241f74",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

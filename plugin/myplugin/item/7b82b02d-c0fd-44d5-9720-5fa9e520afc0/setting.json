@@ -1,0 +1,25 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": false,
+  "equip_buff": "myplugin/9d9c5cf1-4e88-469f-8072-77a256e9ff8d",
+  "equip_skill": [],
+  "equip_skin": {
+    "armor_head": "armor_head_blue"
+  },
+  "icon": "@asset/Texture/Item/icon_helmet.png",
+  "itemintroduction": "9f43efba-ed55-4551-8001-a0b2c9e9b661",
+  "itemname": "item_7b82b02d-c0fd-44d5-9720-5fa9e520afc0",
+  "mesh": "asset/Mesh/Actor_mesh/bed_armor_helmet_blue.mesh",
+  "needSave": false,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false,
+  "tray": [
+    1
+  ]
+}

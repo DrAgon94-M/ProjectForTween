@@ -1,0 +1,21 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "icon": "@asset/Texture/Item/icon_pearl.png",
+  "itemintroduction": "3474edad-2985-47eb-ace0-a9663f988664",
+  "itemname": "item_a8d1dc48-3ea8-4d7c-9c32-ec246d7619a3",
+  "mesh": "asset/Mesh/Originator/bed_ender.mesh",
+  "needSave": false,
+  "stack_count_max": 2,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false,
+  "useBuff": {
+    "cfg": "myplugin/a0fd4290-abcd-4f6d-971f-c726562e285e",
+    "time": 100
+  }
+}

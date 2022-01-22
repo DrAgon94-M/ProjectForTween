@@ -1,0 +1,20 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": true,
+  "handBuff": "myplugin/8cb6f560-f634-439a-8a55-17cda3b2b506",
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Texture/Item/icon_diamond_sword.png",
+  "itemintroduction": "4215677a-1461-49a2-868c-6be50a6c97c2",
+  "itemname": "item_a1b6a1f2-2c18-4781-9018-bbf5535f32a3",
+  "mesh": "asset/Mesh/A Rare Ice Sword/crystal_sword.mesh",
+  "needSave": true,
+  "skill": [],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

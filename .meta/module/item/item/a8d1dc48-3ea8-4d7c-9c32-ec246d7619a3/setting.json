@@ -1,0 +1,38 @@
+{
+  "data": {
+    "canAbandon": true,
+    "candrop": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Texture/Item/icon_pearl.png",
+      "selector": "editor/空/asset/Texture/Item/icon_pearl.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "time": {
+          "value": 100
+        },
+        "useBuff": "myplugin/a0fd4290-abcd-4f6d-971f-c726562e285e"
+      },
+      "type": "Use"
+    },
+    "itemintroduction": {
+      "value": "3474edad-2985-47eb-ace0-a9663f988664"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Originator/bed_ender.mesh"
+    },
+    "name": {
+      "value": "item_a8d1dc48-3ea8-4d7c-9c32-ec246d7619a3"
+    },
+    "stack_count_max": 2
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f7a71fc55dcce6aceef9257f673a4429",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

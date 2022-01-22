@@ -1,0 +1,17 @@
+{
+  "canAbandon": true,
+  "candrop": true,
+  "canEquipPlural": true,
+  "canUse": false,
+  "icon": "@asset/Texture/Item/icon_fire.png",
+  "itemintroduction": "7dceac0c-86a5-4ff6-ac57-777014c34918",
+  "itemname": "item_35aae0c5-6e22-49d2-89d7-6b1abc4ae5d5",
+  "mesh": "asset/Mesh/Fire/bed_fire.mesh",
+  "needSave": true,
+  "stack_count_max": 10,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

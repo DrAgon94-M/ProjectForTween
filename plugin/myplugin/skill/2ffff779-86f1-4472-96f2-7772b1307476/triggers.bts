@@ -1,0 +1,3 @@
+SKILL_CAST {
+	Damage(damage = 10, entity = $obj2)
+}

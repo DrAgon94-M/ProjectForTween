@@ -1,0 +1,135 @@
+    <GUILayout version="4">
+        <Window name="Root" type="DefaultWindow">
+            <Window name="Text" type="WindowsLook/StaticText">
+                <Property name="Area" value="{{0,-1.5692109003318e-06},{0,1.0728823998107e-06},{0,399.82999843079},{0,300.29000107288}}">
+
+                </Property>
+                <Property name="MaxSize" value="{{999,0},{999,0}}">
+
+                </Property>
+                <Property name="Font" value="HarmonyOS_Sans_SC_Regular-14">
+
+                </Property>
+                <Property name="FrameColours" value="ffffffff">
+
+                </Property>
+                <Property name="TextColours" value="ff000000">
+
+                </Property>
+                <Property name="BorderWidth" value="0">
+
+                </Property>
+                <Property name="Disabled" value="false">
+
+                </Property>
+                <Property name="Text" value="">
+
+                </Property>
+                <Property name="word_warpped" value="true">
+
+                </Property>
+                <Property name="TextWordBreak" value="false">
+
+                </Property>
+                <Property name="VerticalAlignment" value="Top">
+
+                </Property>
+                <Property name="PivotY" value="0.5">
+
+                </Property>
+                <Property name="VertFormatting" value="TopAligned">
+
+                </Property>
+                <Property name="BackgroundEnabled" value="false">
+
+                </Property>
+                <Property name="HorzFormatting" value="WordWrapLeftAligned">
+
+                </Property>
+                <Property name="Alpha" value="1">
+
+                </Property>
+                <Property name="Font_size" value="14">
+
+                </Property>
+                <Property name="MousePassThroughEnabled" value="false">
+
+                </Property>
+                <Property name="FrameEnabled" value="false">
+
+                </Property>
+                <Property name="AutoScale" value="0">
+
+                </Property>
+                <Property name="Rotation" value="w:1.0 x:0.0 y:0.0 z:0.0">
+
+                </Property>
+                <Property name="BackgroundColours" value="ffffffff">
+
+                </Property>
+                <Property name="AutoTextScale" value="false">
+
+                </Property>
+                <Property name="MinAutoTextScale" value="8">
+
+                </Property>
+                <Property name="HorizontalAlignment" value="Left">
+
+                </Property>
+                <Property name="BorderColor" value="ffffffff">
+
+                </Property>
+                <Property name="PivotX" value="0.5">
+
+                </Property>
+                <Property name="ClippedByParent" value="false">
+
+                </Property>
+                <Property name="BorderEnable" value="false">
+
+                </Property>
+                <Property name="Visible" value="true">
+
+                </Property>
+                <Property name="TextBoldWeight" value="0">
+
+                </Property>
+            </Window>
+              <Property name="Area" value="{{0,100.22},{0,180},{0,500.22},{0,480}}">
+
+              </Property>
+              <Property name="MaxSize" value="{{999,0},{999,0}}">
+
+              </Property>
+              <Property name="Alpha" value="1">
+
+              </Property>
+              <Property name="Disabled" value="false">
+
+              </Property>
+              <Property name="Rotation" value="w:1.0 x:0.0 y:0.0 z:0.0">
+
+              </Property>
+              <Property name="PivotY" value="0.5">
+
+              </Property>
+              <Property name="HorizontalAlignment" value="Left">
+
+              </Property>
+              <Property name="ClippedByParent" value="false">
+
+              </Property>
+              <Property name="VerticalAlignment" value="Top">
+
+              </Property>
+              <Property name="PivotX" value="0.5">
+
+              </Property>
+              <Property name="MousePassThroughEnabled" value="false">
+
+              </Property>
+              <Property name="Visible" value="true">
+
+              </Property>
+        </Window>
+    </GUILayout>

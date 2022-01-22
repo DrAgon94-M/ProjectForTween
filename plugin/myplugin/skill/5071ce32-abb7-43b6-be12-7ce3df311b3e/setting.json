@@ -1,0 +1,53 @@
+{
+  "area": [
+    [
+      0,
+      -228
+    ],
+    [
+      0,
+      -68
+    ],
+    [
+      0,
+      88
+    ],
+    [
+      0,
+      88
+    ]
+  ],
+  "area_number": 7,
+  "backSwingTime": 0,
+  "buffCfg": "myplugin/56674979-b222-45a9-a615-d3d812c679ce",
+  "buffTime": 100,
+  "castAction": "attack",
+  "castActionTime": -1,
+  "cdTime": 40,
+  "consumeVp": 0,
+  "customizeSkill": true,
+  "draggingEnabled": false,
+  "enable_pre": false,
+  "enable_rear": false,
+  "enableMoveBrkBackS": false,
+  "enableMoveBrkPreS": false,
+  "frontSight": "",
+  "horizontalAlignment": 2,
+  "icon": "@asset/Texture/Skill/common/maxHp.png",
+  "ignoreCastSkillBackS": false,
+  "ignoreCastSkillPreS": true,
+  "ignoreJumpBackS": false,
+  "ignoreJumpPreS": false,
+  "ignoreMoveBackS": false,
+  "ignoreMovePreS": false,
+  "isClick": false,
+  "isTouch": false,
+  "preSwingTime": 0,
+  "sensitivityFactor": 1,
+  "startAction": "",
+  "startActionTime": 0,
+  "sustainAction": "",
+  "target": "self",
+  "type": "Buff",
+  "verticalAlignment": 2
+}

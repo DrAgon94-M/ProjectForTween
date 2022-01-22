@@ -1,0 +1,36 @@
+{
+  "data": {
+    "canAbandon": true,
+    "candrop": true,
+    "canUse": true,
+    "icon": {
+      "asset": "asset/Texture/Item/icon_diamond_sword.png",
+      "selector": "editor/空/asset/Texture/Item/icon_diamond_sword.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "handBuff": "myplugin/8cb6f560-f634-439a-8a55-17cda3b2b506"
+      },
+      "type": "InHand"
+    },
+    "itemintroduction": {
+      "value": "4215677a-1461-49a2-868c-6be50a6c97c2"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/A Rare Ice Sword/crystal_sword.mesh",
+      "selector": "editor/模版游戏配置/asset/A Rare Ice Sword/crystal_sword.mesh"
+    },
+    "name": {
+      "value": "item_a1b6a1f2-2c18-4781-9018-bbf5535f32a3"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "06876bb469d29395a423f770b4cf5100",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

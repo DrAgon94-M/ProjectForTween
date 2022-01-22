@@ -1,0 +1,41 @@
+{
+  "data": {
+    "castAction": "attack",
+    "cdTime": {
+      "value": 40
+    },
+    "name": {
+      "value": "skill_5071ce32-abb7-43b6-be12-7ce3df311b3e"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/56674979-b222-45a9-a615-d3d812c679ce",
+        "buffTime": {
+          "value": 100
+        },
+        "target": "self"
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Texture/Skill/common/maxHp.png",
+        "selector": "editor/空/asset/Texture/Skill/common/maxHp.png"
+      },
+      "iconPos": {
+        "area_number": 7
+      },
+      "touchTime": {
+        "value": 20
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1e4931504c89b0875689334a8491b183",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}

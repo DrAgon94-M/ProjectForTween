@@ -1,0 +1,35 @@
+{
+  "data": {
+    "canAbandon": true,
+    "candrop": true,
+    "icon": {
+      "asset": "asset/Texture/Item/icon_fire.png",
+      "selector": "editor/空/asset/Texture/Item/icon_fire.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse"
+      },
+      "type": "Use"
+    },
+    "itemintroduction": {
+      "value": "7dceac0c-86a5-4ff6-ac57-777014c34918"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Fire/bed_fire.mesh",
+      "selector": "editor/模版游戏配置/asset/Fire/bed_fire.mesh"
+    },
+    "name": {
+      "value": "item_35aae0c5-6e22-49d2-89d7-6b1abc4ae5d5"
+    },
+    "needSave": true,
+    "stack_count_max": 10
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a6667b65cf79d77626397cfe4de71be4",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.18"
+  }
+}
